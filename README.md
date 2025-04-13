@@ -2,6 +2,9 @@
 react 학생 성적 보기 뷰.<br>
 React + TypeScript + Vite 이다.<br>
 
+## 백엔드
+https://github.com/parkkiung123/spring_boot_rest_example
+
 ## 기능
 학생/선생님 로그인이 구분되어 있다.<br>
 선생님으로 로그인 하면 모든 학생 성적을 볼 수 있다.<br>
