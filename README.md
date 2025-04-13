@@ -16,3 +16,6 @@ npm install<br>
 npm run dev<br>
 npm run build<br>
 npm run preview<br>
+
+## 프로젝트 생성 커맨드
+npm create vite@latest my-react-ts-app --template react-ts
