@@ -12,7 +12,7 @@ https://github.com/parkkiung123/spring_boot_rest_example
 UI는 material-ui<br>
 
 ## 실행
-npm install
-npm run dev
-npm run build
-npm run preview
+npm install<br>
+npm run dev<br>
+npm run build<br>
+npm run preview<br>
